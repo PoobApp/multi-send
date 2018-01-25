@@ -1,6 +1,6 @@
 {
   "name": "multi-send",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "multi-send api for nodejs",
   "main": "index.js",
   "scripts": {
