@@ -1,0 +1,22 @@
+{
+  "name": "multi-send",
+  "version": "1.0.0",
+  "description": "multi-send api for nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PoobApp/multi-send.git"
+  },
+  "author": "Dor Shay (Poob)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PoobApp/multi-send/issues"
+  },
+  "homepage": "https://github.com/PoobApp/multi-send#readme",
+  "dependencies": {
+    "request": "^2.83.0"
+  }
+}
