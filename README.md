@@ -6,7 +6,7 @@ multi-send api for nodejs
 
 const MultiSend = require('multi-send');
 
-module.exports = new MultiSend({
+const multiSend = new MultiSend({
     user: 'myuser',
     password: 'mypassword',
 });
